@@ -1,0 +1,7 @@
+public enum ModifierType {
+    HP,
+    PHYSICALDAMAGE,
+    MAGICALDAMAGE,
+    PHYSICALRESISTANCE,
+    MAGICALRESISTANCE;
+}
